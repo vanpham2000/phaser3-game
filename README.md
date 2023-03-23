@@ -19,7 +19,7 @@ This is a racing game inspire by the old 90s classic racing game.
 - [ ] create a car object
 - [ ] create a background
 - [ ] make an animation of the car object if user click left on keyboard it  move left and if click right it move right
-- [ ] make an other car object
+- [ ] make other car object
 - [ ] if the main car object hit the moving car object program stop
 ## **more info on this game framework:**
 Links : https://phaser.io/learn
